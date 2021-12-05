@@ -4,8 +4,10 @@
 ### General Description
 There are two turtle robots in the application. One of them is responsible for following the other from a distance. The distance can be set in the json file.
 
-### Build
-1. if you don't have ros installations your system and you are using ubuntu 20.4 distro. You can use my script. It's callad rosinstallation.sh
+### Dependencies
+- [Json Library](https://github.com/eteran/cpp-json)
+### To Build
+1. if you don't have ros installations your system and you are using ubuntu 20.4 distro. You can use my script. It's called rosinstallation.sh
     ```bash
     source rosinstallion.sh
     ```
