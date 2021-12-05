@@ -50,6 +50,10 @@ There are two turtle robots in the application. One of them is responsible for f
 
 ## Demonstration
 
+<p align="center">
+  <img src="output/output.gif" />
+</p>
+
     
 
       
