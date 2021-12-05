@@ -1,0 +1,9 @@
+{
+    "FollowerRobot":{
+       "Dist": 0.1
+    },
+    "ControlRobot":{
+       "AngularVel":0.5,
+       "LinearVel":2
+    }
+ }
