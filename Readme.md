@@ -1,4 +1,5 @@
 ## <u>TurtleSimFollowingRobot </u>
+#### This repo, it is assignment for the autonomous robots course given by [Asst. Prof. Haluk BAYRAM](https://avesis.medeniyet.edu.tr/haluk.bayram) which i took while  i was doing my master's degree at Istanbul Medeniyet University.
 -----------
 
 ### General Description
